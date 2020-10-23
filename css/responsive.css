@@ -149,6 +149,7 @@
 		margin-bottom:15px;
 	}
 
+
 }
 
 
@@ -157,6 +158,11 @@
 	.top-bar{
 		display:none;
 	}
+
+	#footer img {
+    width: 24%;
+    }
+
 	#navigation .navbar-right {
 		margin-top: 15px;
 		margin-right: 0;
@@ -477,9 +483,14 @@
 	#event-carousel .event-info {
 		width:175px;
 	}
+
+  
+    .img-responsive{
+  	    width:100%;
+    }
+
+
 	
-	/*Single Blog*/
-	
-	
+	/*Single Blog*/	
 }
 
